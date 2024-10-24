@@ -1,5 +1,5 @@
 # blogapi
-•	Python, Django, Django REST framework, django-allauth, PyYAML
-•	Implemented Django REST API
-•	Implemented registration and authentication
-•	Implemented diagram form reflection
+<p>•	Python, Django, Django REST framework, django-allauth, PyYAML</p>
+<p>•	Implemented Django REST API</p>
+<p>•	Implemented registration and authentication</p>
+<p>•	Implemented diagram form reflection</p>
